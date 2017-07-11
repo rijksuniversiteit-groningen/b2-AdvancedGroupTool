@@ -6,3 +6,9 @@ This building block requires a license key. Please contact Nestorsupport (nestor
 ## Links
 - [Download Latest Release](https://github.com/rijksuniversiteit-groningen/b2-AdvancedGroupTool/releases/latest)
 - [View All Releases](https://github.com/rijksuniversiteit-groningen/b2-AdvancedGroupTool/releases)
+
+## Release Notes
+
+### 3000.170314
+
+- Fixed error message 'Unable to find taglib ng for URI: /bbNG', building block is now compatible with Blackboard Q2/Q4 2016 releases.
