@@ -9,6 +9,13 @@ This building block requires a license key. Please contact Nestorsupport (nestor
 
 ## Release Notes
 
+### 3400.181201
+
+- release for Blackboard 2018 Q2 (aka version 3400.0.x)
+- options for logging to directories used by Blackboard SAAS or an Elastic server
+- fixed batch import using Excel 2007
+- disabled disk cache as the DiskExpiryTask causes ClassNotFoundException
+
 ### 3000.170314
 
 - Fixed error message 'Unable to find taglib ng for URI: /bbNG', building block is now compatible with Blackboard Q2/Q4 2016 releases.
