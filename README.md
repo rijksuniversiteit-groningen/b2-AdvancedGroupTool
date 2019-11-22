@@ -9,6 +9,11 @@ This building block requires a license key. Please contact Nestorsupport (nestor
 
 ## Release Notes
 
+### 3400.190904.0
+
+- compatible with Blackboard 2018 Q2, 2018 Q4 and 2019 Q2
+- importing from Excel that contains external references will now give user a message instead of a blank page (and spamming the admin)
+
 ### 3400.181201
 
 - release for Blackboard 2018 Q2 (aka version 3400.0.x)
