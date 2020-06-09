@@ -9,6 +9,12 @@ This building block requires a license key. Please contact Nestorsupport (nestor
 
 ## Release Notes
 
+### 3800.200508.0
+* compatible with Blackboard 2019 Q4; compiled with Java 11 so *not* compatible with older Blackboard versions
+* support the Bb Collaborate tool as Blackboard does in its own group management
+* Forum and Collaborate settings of a group set are used when a student adds a new group to a self enroll page
+* give proper error message when instructor tries to import an encrypted Excel file
+
 ### 3400.190904.0
 
 - compatible with Blackboard 2018 Q2, 2018 Q4 and 2019 Q2
