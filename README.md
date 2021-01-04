@@ -9,6 +9,9 @@ This building block requires a license key. Please contact Nestorsupport (nestor
 
 ## Release Notes
 
+### 3800.210104.0
+* fixes MissingResourceException in Blackboard 2019 Q4 CU7 and Blackboard 2020
+
 ### 3800.200508.0
 * compatible with Blackboard 2019 Q4; compiled with Java 11 so *not* compatible with older Blackboard versions
 * support the Bb Collaborate tool as Blackboard does in its own group management
