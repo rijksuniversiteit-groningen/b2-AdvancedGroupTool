@@ -9,8 +9,14 @@ This building block requires a license key. Please contact Nestorsupport (nestor
 
 ## Release Notes
 
-### 3800.210104.0
+### 3800.210212.0
 * fixes MissingResourceException in Blackboard 2019 Q4 CU7 and Blackboard 2020
+* only show group batch_uid to admin users
+* configure journal visibility from the group set form
+* link "list self enrollments" directly from admin tab
+* better support for DB connections with TRANSACTION_SERIALIZABLE isolation level
+* fixed an issue with CSV batch import for certain headers
+* fixed an issue with Excel batch export due to missing fonts on server
 
 ### 3800.200508.0
 * compatible with Blackboard 2019 Q4; compiled with Java 11 so *not* compatible with older Blackboard versions
